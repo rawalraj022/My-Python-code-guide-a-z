@@ -9,6 +9,8 @@ ii) 2nd way is we can automate this particular task with the help of loops ,
 """
 
 ## i) 1st way is write print function 10 times but it’s a manual approach 
+
+# Code :
 """
 print("Rajkumar Rawal")
 print("Rajkumar Rawal")
@@ -44,6 +46,8 @@ while condition:
     # Statements
 """
 
+# Code :
+"""
 i = 0       # in programming we start counting from 0 so we have to start from 0 
             # if we start from 1 then it will print 11 times because 0 to 10 = 11 times
             # i = 0 is initialization of loop variable .
@@ -55,7 +59,41 @@ while i < 10:   # i < 10 is condition of loop , if condition is true then loop w
                 # i += 1 is used to avoid infinite loop , if we don't use this then loop will execute infinite times
                 # i += 1 is used to terminate the loop when the condition becomes false
 
+"""
+
+
+# Q) Program to print multiplication table  ? 
+
+# Code :
+
+"""
+number = int(input("Enter the number :"))    # input function is used to take input from user
+
+i = 1             # i = 1 is initialization of loop variable
+
+while i<11:          # i < 11 is condition of loop , if condition is true then loop will execute otherwise loop will not execute
+    #print(i*number)   # it will print only the multiplication of number
+    print(number,"*",i,"=",i*number)   # it will print the multiplication table of number
+    i += 1   # increment of loop variable
+
+"""
+
+
+# Q) While loop with else  ?
+
+number = int(input("Enter the number :"))    # input function is used to take input from user
+
+x = 1
+
+while x < 4:
+    print(x*number)
+    x += 1
+
+else:
+    print("x is no longer less than 4")
 
 
 
+# In next tutorial we will using this while loop with else 
+    # in our guessing game project 
 
