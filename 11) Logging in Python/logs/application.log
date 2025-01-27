@@ -1,0 +1,2 @@
+[ 2025-01-27 09:34:21,743 ] root - INFO - This is information message
+[ 2025-01-27 10:04:31,952 ] root - INFO - [Errno 2] No such file or directory: 'files/sample.txt10'
