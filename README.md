@@ -1,6 +1,6 @@
 # Complete Python Basic to Advance Guide by Rajkumar Rawal [My Python Code Guide A-Z]
 
-![Python Guide Basic to Advance](./assets/python_guide_basic_to_advance.png)
+![Python Guide Basic to Advance](./assets/python-guide-basic-to-advance.png)
 
 This Python Basic to Advanced Guide is designed to take you from the fundamentals to expert-level programming. We’ll start with core concepts like variables, data types, and control structures, then progress to more advanced topics such as object-oriented programming, file handling, and error management. The Guide also covers advanced features like decorators, generators, and working with data. Throughout, you'll engage in hands-on projects that solidify your learning and prepare you for real-world applications. By the end, you'll have the skills to build robust Python programs and tackle complex challenges with confidence.
 
