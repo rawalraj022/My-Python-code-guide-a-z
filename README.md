@@ -1,6 +1,6 @@
-# Complete Python Basic to Advance by Rajkumar Rawal [My Python Code Guide A-Z]
+# Complete Python Basic to Advance Guide by Rajkumar Rawal [My Python Code Guide A-Z]
 
-This Python Basic to Advanced course is designed to take you from the fundamentals to expert-level programming. We’ll start with core concepts like variables, data types, and control structures, then progress to more advanced topics such as object-oriented programming, file handling, and error management. The course also covers advanced features like decorators, generators, and working with data. Throughout, you'll engage in hands-on projects that solidify your learning and prepare you for real-world applications. By the end, you'll have the skills to build robust Python programs and tackle complex challenges with confidence.
+This Python Basic to Advanced Guide is designed to take you from the fundamentals to expert-level programming. We’ll start with core concepts like variables, data types, and control structures, then progress to more advanced topics such as object-oriented programming, file handling, and error management. The Guide also covers advanced features like decorators, generators, and working with data. Throughout, you'll engage in hands-on projects that solidify your learning and prepare you for real-world applications. By the end, you'll have the skills to build robust Python programs and tackle complex challenges with confidence.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ This Python Basic to Advanced course is designed to take you from the fundamenta
 
 ## Getting Started
 
-To get started with this course, clone the repository and navigate to the desired section. Each section contains Jupyter notebooks and Python scripts that cover various topics and concepts.
+To get started with this  Guide, clone the repository and navigate to the desired section. Each section contains Jupyter notebooks and Python scripts that cover various topics and concepts.
 
 ```sh
 git clone <repository-url>
@@ -37,8 +37,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the Apache License - see the LICENSE file for details.
 
 
-# Acknowledgments
-
-Special thanks to Rajkumar Rawal for creating this comprehensive Python guide.
-Thanks to all contributors and the Python community for their support and resources.
 
